@@ -1,0 +1,285 @@
+SECTION 1 STATISTICS FOR INDEX AT STEP 1
+ 	 Number of terms is 27215
+ 	 Maximum posting length is 501
+ 	 Minimum posting length is 1
+ 	 Average posting length is 342.313373253493
+
+
+
+SECTION 1 STATISTICS FOR INDEX AT STEP 2
+ 	 Number of terms is 26633
+ 	 Maximum posting length is 501
+ 	 Minimum posting length is 1
+ 	 Average posting length is 232.4451097804391
+
+
+
+SECTION 1 STATISTICS FOR INDEX AT STEP 3
+ 	 Number of terms is 22549
+ 	 Maximum posting length is 501
+ 	 Minimum posting length is 1
+ 	 Average posting length is 218.3872255489022
+
+
+
+SECTION 1 STATISTICS FOR INDEX AT STEP 4
+ 	 Number of terms is 2912
+ 	 Maximum posting length is 501
+ 	 Minimum posting length is 6
+ 	 Average posting length is 162.62674650698602
+
+
+
+
+
+
+
+ STATISTICS FOR SECTION 2 
+  Statistics for  LAST K FREQUENT 
+	 	 Key is espana
+	 	 Posting size 6
+	 	 Average size 30.6
+
+	 	 Key is 01/08/16
+	 	 Posting size 6
+	 	 Average size 27.4
+
+	 	 Key is sep
+	 	 Posting size 6
+	 	 Average size 32.6
+
+	 	 Key is stannard
+	 	 Posting size 6
+	 	 Average size 30.2
+
+	 	 Key is 24/07/16
+	 	 Posting size 6
+	 	 Average size 30.0
+
+	 	 Key is miguel
+	 	 Posting size 6
+	 	 Average size 84.4
+
+	 	 Key is republ
+	 	 Posting size 6
+	 	 Average size 18.6
+
+	 	 Key is haa
+	 	 Posting size 6
+	 	 Average size 81.8
+
+	 	 Key is bennett
+	 	 Posting size 6
+	 	 Average size 83.4
+
+	 	 Key is 5176
+	 	 Posting size 6
+	 	 Average size 21.2
+
+	 	 Key is 5sec
+	 	 Posting size 6
+	 	 Average size 21.2
+
+	 	 Key is cruis
+	 	 Posting size 6
+	 	 Average size 81.4
+
+	 	 Key is downhil
+	 	 Posting size 6
+	 	 Average size 13.2
+
+	 	 Key is rafal
+	 	 Posting size 6
+	 	 Average size 13.4
+
+	 	 Key is majka
+	 	 Posting size 6
+	 	 Average size 13.4
+
+	 	 Key is pol
+	 	 Posting size 6
+	 	 Average size 13.4
+
+	 	 Key is manxman
+	 	 Posting size 6
+	 	 Average size 13.0
+
+	 	 Key is eddi
+	 	 Posting size 6
+	 	 Average size 8.4
+
+	 	 Key is merckx
+	 	 Posting size 6
+	 	 Average size 8.4
+
+	 	 Key is 47sec
+	 	 Posting size 6
+	 	 Average size 9.8
+
+  Statistics for  TOP K FREQUENT 
+	 	 Key is xc2xa92017
+	 	 Posting size 501
+	 	 Average size 1.0
+
+	 	 Key is updat
+	 	 Posting size 496
+	 	 Average size 1.0101010101
+
+	 	 Key is win
+	 	 Posting size 374
+	 	 Average size 1.34048257373
+
+	 	 Key is time
+	 	 Posting size 347
+	 	 Average size 1.43641618497
+
+	 	 Key is play
+	 	 Posting size 330
+	 	 Average size 1.49848024316
+
+	 	 Key is sport
+	 	 Posting size 315
+	 	 Average size 1.58917197452
+
+	 	 Key is game
+	 	 Posting size 311
+	 	 Average size 1.6
+
+	 	 Key is final
+	 	 Posting size 310
+	 	 Average size 1.5857605178
+
+	 	 Key is look
+	 	 Posting size 309
+	 	 Average size 1.62337662338
+
+	 	 Key is player
+	 	 Posting size 294
+	 	 Average size 1.68259385666
+
+	 	 Key is follow
+	 	 Posting size 277
+	 	 Average size 1.80434782609
+
+	 	 Key is top
+	 	 Posting size 272
+	 	 Average size 1.83025830258
+
+	 	 Key is titl
+	 	 Posting size 265
+	 	 Average size 1.83712121212
+
+	 	 Key is won
+	 	 Posting size 262
+	 	 Average size 1.90038314176
+
+	 	 Key is match
+	 	 Posting size 260
+	 	 Average size 1.9111969112
+
+	 	 Key is team
+	 	 Posting size 260
+	 	 Average size 1.92664092664
+
+	 	 Key is season
+	 	 Posting size 252
+	 	 Average size 1.96414342629
+
+	 	 Key is start
+	 	 Posting size 250
+	 	 Average size 1.98795180723
+
+	 	 Key is day
+	 	 Posting size 247
+	 	 Average size 2.0325203252
+
+	 	 Key is world
+	 	 Posting size 247
+	 	 Average size 1.99593495935
+
+  Statistics for  MEDIAN K FREQUENT 
+	 	 Key is wade
+	 	 Posting size 14
+	 	 Average size 20.7692307692
+
+	 	 Key is redknapp
+	 	 Posting size 14
+	 	 Average size 34.1538461538
+
+	 	 Key is carragh
+	 	 Posting size 14
+	 	 Average size 33.7692307692
+
+	 	 Key is headlin
+	 	 Posting size 14
+	 	 Average size 33.7692307692
+
+	 	 Key is garcia
+	 	 Posting size 14
+	 	 Average size 33.3076923077
+
+	 	 Key is understood
+	 	 Posting size 14
+	 	 Average size 27.3846153846
+
+	 	 Key is virgil
+	 	 Posting size 14
+	 	 Average size 27.3846153846
+
+	 	 Key is depth
+	 	 Posting size 14
+	 	 Average size 14.5384615385
+
+	 	 Key is fognini
+	 	 Posting size 14
+	 	 Average size 33.9230769231
+
+	 	 Key is upcom
+	 	 Posting size 14
+	 	 Average size 36.9230769231
+
+	 	 Key is surgeri
+	 	 Posting size 14
+	 	 Average size 35.3846153846
+
+	 	 Key is reliv
+	 	 Posting size 14
+	 	 Average size 26.5384615385
+
+	 	 Key is statist
+	 	 Posting size 14
+	 	 Average size 28.1538461538
+
+	 	 Key is proven
+	 	 Posting size 14
+	 	 Average size 30.9230769231
+
+	 	 Key is anthoni
+	 	 Posting size 14
+	 	 Average size 37.2307692308
+
+	 	 Key is trip
+	 	 Posting size 14
+	 	 Average size 37.0
+
+	 	 Key is born
+	 	 Posting size 14
+	 	 Average size 34.6923076923
+
+	 	 Key is standard
+	 	 Posting size 14
+	 	 Average size 28.1538461538
+
+	 	 Key is gear
+	 	 Posting size 14
+	 	 Average size 34.8461538462
+
+	 	 Key is gareth
+	 	 Posting size 14
+	 	 Average size 34.3846153846
+
+
+
+
+
+ STATISTICS FOR SECTION 3 
