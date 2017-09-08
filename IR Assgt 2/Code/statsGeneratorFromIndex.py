@@ -23,7 +23,7 @@ def generateStatsForMaximumKFrequencies( invertedIndex, k):
     for token, freq in tempList:
         #print('Token:{0} Freq:{1}'.format(token, freq))
         count+=1
-        print('For K = {0} and token = {1}'.format(count, token))
+        print('For K = {0}'.format(count))
         postingList = sorted(invertedIndex[(token, freq)]) 
         print('Postings list size:{0}'.format(len(postingList)))
         sum = 0
@@ -45,7 +45,7 @@ def generateStatsForMinimumKFrequencies( invertedIndex, k):
     for token, freq in tempList:
         #print('Token:{0} Freq:{1}'.format(token, freq))
         count+=1
-        print('For K = {0} and token = {1}'.format(count, token))
+        print('For K = {0}'.format(count))
         postingList = sorted(invertedIndex[(token, freq)]) 
         print('Postings list size:{0}'.format(len(postingList)))
         sum = 0
@@ -68,7 +68,7 @@ def generateStatsForMedianKFrequencies( invertedIndex, k):
     ranger = int(middle + k/2)
     for i in range( rangel, ranger ):
         token, freq = tempList[i]
-        print('For K = {0}  and token = {1}'.format(i, token))
+        print('For K = {0}'.format(i))
         postingList = sorted(invertedIndex[(token, freq)]) 
         print('Postings list size:{0}'.format(len(postingList)))
         sum = 0

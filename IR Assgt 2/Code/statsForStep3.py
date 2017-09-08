@@ -64,7 +64,7 @@ def generatePostingGapGraph( invertedIndex ):
     plt.xlabel('Gaps in posting list')
     plt.ylabel('Count')
     plt.title('Posting Gaps histogram')
-    plt.hist( postingGaps, bins = 100, range = [0,200], align = 'mid' )
+    plt.hist( postingGaps, bins = 100 )
     
 def generateStatisticsForStep3():
     """TTo generate stats based on step 3 asked in Section 3 of assignment"""
